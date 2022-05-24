@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Front End
 - Buenos Aires, Argentina
 - 16 years old
-- Spanish and English
+- Spanish and English (language)
 
 <!---
 pipachiesa/pipachiesa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
