@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pipachiesa
-- 👀 I’m interested in Front End Developer
+- 👀 I’m interested in Front End
 - 🌱 I’m currently learning Front End
 - Buenos Aires, Argentina
 - 16 years old
