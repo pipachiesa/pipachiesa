@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End
 - 🌱 I’m currently learning Front End
 - Buenos Aires, Argentina
-- 16 years old
+- 17 years old
 - Spanish and English (language)
 
 <!---
